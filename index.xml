@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小周同学</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 小周同学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 22:59:39 +0800</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cmake使用小记</title>
+      <link>https://example.com/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</link>
+      <pubDate>Tue, 06 Aug 2024 22:59:39 +0800</pubDate>
+      <guid>https://example.com/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</guid>
+      <description>CMAKE 小记 🔗最近参与一个小的项目，由于之前没有仓库承载代码，所以建立了新仓，从零开始搭建了构建工程，也算学习了部分cmake的知识，因此在这里记</description>
+    </item>
+  </channel>
+</rss>
