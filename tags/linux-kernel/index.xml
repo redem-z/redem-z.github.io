@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Kernel on 小周同学</title>
+    <link>https://redem-z.github.io/tags/linux-kernel/</link>
+    <description>Recent content in Linux Kernel on 小周同学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2024 21:40:00 +0800</lastBuildDate>
+    <atom:link href="https://redem-z.github.io/tags/linux-kernel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>理解linux匿名映射</title>
+      <link>https://redem-z.github.io/posts/%E7%90%86%E8%A7%A3linux%E5%8C%BF%E5%90%8D%E6%98%A0%E5%B0%84/</link>
+      <pubDate>Wed, 07 Aug 2024 21:40:00 +0800</pubDate>
+      <guid>https://redem-z.github.io/posts/%E7%90%86%E8%A7%A3linux%E5%8C%BF%E5%90%8D%E6%98%A0%E5%B0%84/</guid>
+      <description>初步理解linux匿名映射及反向映射，胡乱画了图，防止遗忘，后面详细展开。</description>
+    </item>
+  </channel>
+</rss>

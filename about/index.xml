@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on 小周同学</title>
-    <link>https://example.com/about/</link>
+    <link>https://redem-z.github.io/about/</link>
     <description>Recent content in About on 小周同学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://redem-z.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

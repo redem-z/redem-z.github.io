@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小周同学</title>
-    <link>https://example.com/</link>
+    <link>https://redem-z.github.io/</link>
     <description>Recent content on 小周同学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2024 22:59:39 +0800</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 21:40:00 +0800</lastBuildDate>
+    <atom:link href="https://redem-z.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>理解linux匿名映射</title>
+      <link>https://redem-z.github.io/posts/%E7%90%86%E8%A7%A3linux%E5%8C%BF%E5%90%8D%E6%98%A0%E5%B0%84/</link>
+      <pubDate>Wed, 07 Aug 2024 21:40:00 +0800</pubDate>
+      <guid>https://redem-z.github.io/posts/%E7%90%86%E8%A7%A3linux%E5%8C%BF%E5%90%8D%E6%98%A0%E5%B0%84/</guid>
+      <description>初步理解linux匿名映射及反向映射，胡乱画了图，防止遗忘，后面详细展开。</description>
+    </item>
     <item>
       <title>Cmake使用小记</title>
-      <link>https://example.com/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</link>
+      <link>https://redem-z.github.io/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</link>
       <pubDate>Tue, 06 Aug 2024 22:59:39 +0800</pubDate>
-      <guid>https://example.com/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</guid>
+      <guid>https://redem-z.github.io/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/</guid>
       <description>CMAKE 小记 🔗最近参与一个小的项目，由于之前没有仓库承载代码，所以建立了新仓，从零开始搭建了构建工程，也算学习了部分cmake的知识，因此在这里记</description>
     </item>
   </channel>

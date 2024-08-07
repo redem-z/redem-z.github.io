@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>小周同学</title>
+    <title>理解linux匿名映射 | 小周同学</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="My Blog">
+<meta name="description" content="anon vma">
 <meta name="generator" content="Hugo 0.124.1">
 
 
@@ -23,11 +23,6 @@
 
 
 
-
-  
-    <link href="/posts/index.xml" rel="alternate" type="application/rss+xml" title="小周同学" />
-    <link href="/posts/index.xml" rel="feed" type="application/rss+xml" title="小周同学" />
-  
 
 
 
@@ -50,70 +45,78 @@
 
     <main class="main">
       
-<header class="profile">
+
+<section id="single">
+    <h1 class="title">理解linux匿名映射</h1>
+
+    <div class="tip">
+        <time datetime="2024-08-07 21:40:00 &#43;0800 CST">2024年08月07日</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          37字
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          1分钟
+        </span>
+    </div>
+
     
-        <img class="avatar" alt="avatar" src="/images/avatar.png" />
+    
+        
+  
+
+
     
 
-    <h1>小周同学</h1>
-    
-    
-      <h2>Software Engineer</h2>
-    
-</header>
 
-<section id="archive">
-    
-        <div class="group">
-            <h3 class="key">
-                2024
-            </h3>
+    <div class="content">
+      <p>初步理解linux匿名映射及反向映射，胡乱画了图，防止遗忘，后面详细展开。</p>
+<p><p class="markdown-image">
+  <img src="/Img/image-20240807221835971.png" alt="image-20240807221835971"  />
+</p></p>
 
+    </div>
+
+    
+        <div class="tags">
             
-                <div class="value">
-                  <div class="date">
-                    <time datetime="2024-08-07 21:40:00 &#43;0800 CST">08/07</time>
-                  </div>
-                  <div class="title">
-                      <a href="https://redem-z.github.io/posts/%E7%90%86%E8%A7%A3linux%E5%8C%BF%E5%90%8D%E6%98%A0%E5%B0%84/">
-                          理解linux匿名映射
-                      </a>
-
-                      
-                          <div class="tags">
-                              
-                                  <a href="https://redem-z.github.io/tags/linux-kernel">Linux Kernel</a>
-                              
-                          </div>
-                      
-                  </div>
-                </div>
+                <a href="https://redem-z.github.io/tags/linux-kernel">Linux Kernel</a>
             
-                <div class="value">
-                  <div class="date">
-                    <time datetime="2024-08-06 22:59:39 &#43;0800 CST">08/06</time>
-                  </div>
-                  <div class="title">
-                      <a href="https://redem-z.github.io/posts/cmake%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/">
-                          Cmake使用小记
-                      </a>
-
-                      
-                          <div class="tags">
-                              
-                                  <a href="https://redem-z.github.io/tags/cmake">Cmake</a>
-                              
-                          </div>
-                      
-                  </div>
-                </div>
-                      
         </div>
     
+    
+    
+  <div id="comment">
+    
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "redem-z" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
 
 
 </section>
-
 
 
     </main>
